@@ -1,2 +1,3 @@
-# micro-news-aggregator-8mbd
-A news aggregation service for modern development workflows
+# Micro News Aggregator 8Mbd
+
+A news aggregation service for modern development workflows.
